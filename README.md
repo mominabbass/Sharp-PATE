@@ -1,4 +1,4 @@
-# Hypergradient-Descent
+# Scalable Private Learning with PATE
 ##### Course Project: [ECSE-6962 Trustworhty Machine Learning (Spring-2022)](https://piazza.com/class/ky4olbgarmr2du)
 ###### By: [Momin Abbas](https://mominabbas.github.io/)
 
