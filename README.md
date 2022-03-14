@@ -1,5 +1,5 @@
 # Hypergradient-Descent
-##### Course Project: [ECSE-6962 Trustworhty Machine Learning (Fall-2021)](https://piazza.com/class/ky4olbgarmr2du)
+##### Course Project: [ECSE-6962 Trustworhty Machine Learning (Spring-2022)](https://piazza.com/class/ky4olbgarmr2du)
 ###### By: [Momin Abbas](https://mominabbas.github.io/)
 
 
