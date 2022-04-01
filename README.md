@@ -1,5 +1,6 @@
 # Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
 ##### Course Project: [ECSE-6962 Trustworthy Machine Learning (Spring-2022)](https://piazza.com/class/ky4olbgarmr2du)
+##### Instructors: [Ali Tajer](https://www.isg-rpi.com/) and [Alex Gittens](https://www.cs.rpi.edu/~gittea/)
 ###### By: [Momin Abbas](https://mominabbas.github.io/)
 
 
