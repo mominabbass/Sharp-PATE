@@ -12,11 +12,12 @@ API: Pytorch
 
 # Reference
 ```
-@article{papernot2018scalable,
-  title={Scalable private learning with pate},
-  author={Papernot, Nicolas and Song, Shuang and Mironov, Ilya and Raghunathan, Ananth and Talwar, Kunal and Erlingsson, {\'U}lfar},
-  journal={arXiv preprint arXiv:1802.08908},
-  year={2018}
+@article{papernot2016semi,
+  title={Semi-supervised knowledge transfer for deep learning from private training data},
+  author={Papernot, Nicolas and Abadi, Mart{\'\i}n and Erlingsson, Ulfar and Goodfellow, Ian and Talwar, Kunal},
+  journal={arXiv preprint arXiv:1610.05755},
+  year={2016}
 }
+
 ```
 
