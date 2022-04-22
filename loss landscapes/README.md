@@ -1,5 +1,5 @@
 # Instructions
-Loss landscapes were generated using the [filter normalalization](https://github.com/tomgoldstein/loss-landscape) method.
+Loss landscapes were generated using the [filter normalization](https://github.com/tomgoldstein/loss-landscape) method.
 
 # Reference
 ```
