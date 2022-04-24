@@ -10,7 +10,14 @@ Language: Python
 API: Pytorch
 
 # Instructions
+The `pytorch/data` folder contains the datasets used for training (`MNIST`,`CIFAR-10`,`CIFAR-100`). Results of our experiments are located in the `pytorch/results` folder. 
+To reproduce all of the experiments, simply download all the files in the pytorch folder and run `pytorch/main.py` as ``` python main.py ```.
 
+For `MNIST`, run:  
+
+```bash
+python sharp_pate_mnist.py
+```
 
 # Reference
 ```
