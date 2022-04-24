@@ -33,6 +33,7 @@ python sharp_pate_svhn_privacy.py
 Note: To run asharp-PATE, set the value of 'adaptive' to True
 
 *For each expermient, I take the average of 10 runs
+
 *Hyper-parameters not specified explicitly in the papers were found using grid search
 
 # Reference
