@@ -37,7 +37,7 @@ Note: To run asharp-PATE, set the value of 'adaptive' to True
 
 *Hyper-parameters not specified explicitly in the papers were found using grid search
 
-# Reference
+# References
 ```
 @article{papernot2016semi,
   title={Semi-supervised knowledge transfer for deep learning from private training data},
