@@ -18,6 +18,18 @@ For `MNIST`, run:
 ```bash
 python sharp_pate_mnist.py
 ```
+```bash
+python sharp_pate_mnist_privacy.py
+```
+
+For `SVHN`, run:  
+
+```bash
+python sharp_pate_svhn.py
+```
+```bash
+python sharp_pate_svhn_privacy.py
+```
 
 # Reference
 ```
